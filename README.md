@@ -1,6 +1,6 @@
 # Movie Details API
 
-This is a simple Express.js API that retrieves movie details from a database or an external API. It uses MongoDB for data storage and Axios for making HTTP requests.
+This is a simple **Express.js** API that retrieves movie details from a database or an external API. It uses **MongoDB** for data storage and **Axios** for making HTTP requests.
 
 ## Getting Started
 
@@ -8,9 +8,9 @@ To get started with the API, follow the steps below:
 
 ### Prerequisites
 
-- Node.js installed on your machine
-- MongoDB database
-- API key for the movie data source (update the `.env` file)
+- **Node.js** installed on your machine
+- **MongoDB** database
+- API key for the movie data source (update the `.env` file) https://developer.themoviedb.org/docs
 
 ### Installation
 
