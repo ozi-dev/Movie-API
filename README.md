@@ -1,6 +1,3 @@
-# Movie-API
-
-
 # Movie Details API
 
 This is a simple Express.js API that retrieves movie details from a database or an external API. It uses MongoDB for data storage and Axios for making HTTP requests.
@@ -20,7 +17,7 @@ To get started with the API, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/movie-details-api.git
+   git clone https://github.com/ozi-dev/movie-details-api.git
    ```
 
 2. Navigate to the project directory:
@@ -47,7 +44,7 @@ To get started with the API, follow the steps below:
 1. Start the server:
 
    ```bash
-   npm start
+   nodemon index.js
    ```
 
 2. Access the API:
