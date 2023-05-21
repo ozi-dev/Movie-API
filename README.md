@@ -52,6 +52,6 @@ To get started with the API, follow the steps below:
    - Open your browser or a tool like Postman.
    - Make GET requests to `http://localhost:{PORT}/api/details/:id` where `:id` is the movie ID you want to retrieve details for.
 
-   Example: `http://localhost:3000/api/details/1`
+   Example: `http://localhost:5000/api/details/1`
 
    The API will first check if the movie details exist in the database. If found, it will return the details directly. Otherwise, it will fetch the data from the external API, store it in the database, and then return the details.
